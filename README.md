@@ -1,6 +1,6 @@
 # cpp-javadoc
 
-## Disclaimer:
+## Disclaimer
 This is the creation of https://github.com/zhou-michael, I am fixing some
 problems with installation
 
@@ -11,12 +11,12 @@ Plugin that inserts Javadoc style comments for cpp files using Treesitter.
 
 using [Packer](https://github.com/wbthomason/packer.nvim)
 ```lua
-use 'zhou-michael/cpp-javadoc'
+use 'Incorrectish/cpp-javadoc'
 ```
 
 using [vim-plug](https://github.com/junegunn/vim-plug)
 ```vim
-Plug 'zhou-michael/cpp-javadoc'
+Plug 'Incorrectish/cpp-javadoc'
 ```
 
 ## Usage
