@@ -1,5 +1,9 @@
 # cpp-javadoc
 
+## Disclaimer:
+This is the creation of https://github.com/zhou-michael, I am fixing some
+problems with installation
+
 ## Overview
 Plugin that inserts Javadoc style comments for cpp files using Treesitter.
 
